@@ -1,0 +1,8 @@
+{
+  "env": {
+    "PORT": 8000,
+    "MONGO_CONNECTION_STRING": "mongodb://localhost:27017/smart-event-management",
+    "JWT_SECRET_KEY": "THOR_MJOLNIR",
+    "TOKEN_EXPIRY": 1
+  }
+}
